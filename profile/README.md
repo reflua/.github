@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="reflua.png" alt="logo" height=100>
+  <img src="../reflua.png" alt="logo" height=100>
 </p>
 
 <h1 align="center">레플루아</h1>
